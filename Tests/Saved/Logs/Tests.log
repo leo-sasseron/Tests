@@ -1,0 +1,2015 @@
+﻿Log file open, 03/22/19 13:09:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Tests
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.402576
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.108s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=leo_sasseron -epicuserid=3a899d71e6ca46e0a3f253201f79eab8 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Unreal/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Engine.ini]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Engine.ini]
+[2019.03.22-16.09.28:796][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Engine.ini]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Engine.ini]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.22-16.09.28:796][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.22-16.09.28:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Engine.ini]
+[2019.03.22-16.09.28:797][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Engine.ini]
+[2019.03.22-16.09.28:799][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.22-16.09.28:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.22-16.09.28:800][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.22-16.09.28:800][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.22-16.09.28:800][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.22-16.09.28:816][  0]LogHAL: Display: Platform has ~ 16 GB [17075007488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.22-16.09.28:816][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.22-16.09.28:816][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.22-16.09.28:816][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:816][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.22-16.09.28:816][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Scalability.ini]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.22-16.09.28:817][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.22-16.09.28:818][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.22-16.09.28:818][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Config/Windows/Engine.ini]
+[2019.03.22-16.09.28:818][  0]LogInit: Computer: LEO-PC
+[2019.03.22-16.09.28:818][  0]LogInit: User: leodi
+[2019.03.22-16.09.28:818][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.22-16.09.28:818][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.22-16.09.28:818][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.22-16.09.28:818][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.22-16.09.28:818][  0]LogMemory: Process Physical Memory: 103.57 MB used, 103.57 MB peak
+[2019.03.22-16.09.28:818][  0]LogMemory: Process Virtual Memory: 86.14 MB used, 86.14 MB peak
+[2019.03.22-16.09.28:818][  0]LogMemory: Physical Memory: 8691.70 MB used,  7592.30 MB free, 16284.00 MB total
+[2019.03.22-16.09.28:818][  0]LogMemory: Virtual Memory: 4662.29 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.03.22-16.09.28:833][  0]LogInit: Using OS detected language (en-US).
+[2019.03.22-16.09.28:833][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.22-16.09.28:834][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.22-16.09.29:168][  0]LogStreaming: Display: Took  0.335s to InitEngineTextLocalization.
+[2019.03.22-16.09.29:169][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.22-16.09.29:198][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.22-16.09.29:198][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.22-16.09.29:385][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.22-16.09.29:385][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.22-16.09.29:435][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.03.22-16.09.29:435][  0]LogD3D11RHI:       4053/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.22-16.09.29:437][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.22-16.09.29:437][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.22-16.09.29:437][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.22-16.09.29:444][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.22-16.09.29:445][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.22-16.09.29:445][  0]LogWindows: EnumDisplayDevices:
+[2019.03.22-16.09.29:445][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.03.22-16.09.29:445][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.03.22-16.09.29:445][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.03.22-16.09.29:446][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.03.22-16.09.29:446][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.22-16.09.29:446][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.03.22-16.09.29:446][  0]LogD3D11RHI:   Driver Version: 419.35 (internal:25.21.14.1935, unified:419.35)
+[2019.03.22-16.09.29:446][  0]LogD3D11RHI:      Driver Date: 3-1-2019
+[2019.03.22-16.09.29:446][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.03.22-16.09.29:484][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.22-16.09.29:496][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.22-16.09.29:807][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.22-16.09.29:818][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.22-16.09.29:829][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.22-16.09.29:840][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.22-16.09.29:852][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.22-16.09.29:863][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.22-16.09.29:874][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.22-16.09.29:887][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.22-16.09.29:894][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.22-16.09.29:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:955][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.22-16.09.29:956][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.22-16.09.30:012][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.22-16.09.30:012][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.22-16.09.30:031][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.22-16.09.30:031][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.22-16.09.30:041][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.22-16.09.30:051][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.22-16.09.30:061][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.22-16.09.30:072][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.22-16.09.30:109][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.22-16.09.30:109][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.22-16.09.30:109][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.22-16.09.30:167][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Intermediate/Shaders/WorkingDirectory/16420/).
+[2019.03.22-16.09.30:167][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/leodi/AppData/Local/Temp/UnrealShaderWorkingDir/22C3EA8A49F1B078114878A7DBF44947/'.
+[2019.03.22-16.09.30:170][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.22-16.09.30:170][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.22-16.09.30:170][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.22-16.09.30:633][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.22-16.09.30:694][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/leodi/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.22-16.09.30:694][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/leodi/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.22-16.09.30:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.22-16.09.30:694][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.22-16.09.30:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.22-16.09.30:694][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.22-16.09.30:707][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.22-16.09.30:707][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.22-16.09.30:707][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.22-16.09.30:719][  0]LogDerivedDataCache: Using Local data cache path C:/Users/leodi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.22-16.09.30:719][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.22-16.09.30:719][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.22-16.09.30:738][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.22-16.09.30:739][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.22-16.09.30:739][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.22-16.09.30:817][  0]LogAssetRegistry: FAssetRegistry took 0.0316 seconds to start up
+[2019.03.22-16.09.31:101][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.22-16.09.31:233][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.22-16.09.31:236][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.22-16.09.31:236][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.22-16.09.31:236][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.22-16.09.31:236][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.22-16.09.31:248][  0]LogNetVersion: Tests 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2151915692)
+[2019.03.22-16.09.31:767][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.124364 seconds
+[2019.03.22-16.09.31:774][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.22-16.09.31:774][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.03.22-16.09.31:774][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.22-16.09.32:541][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.22-16.09.32:555][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.22-16.09.33:142][  0]SourceControl: Source control is disabled
+[2019.03.22-16.09.33:142][  0]SourceControl: Source control is disabled
+[2019.03.22-16.09.33:143][  0]SourceControl: Source control is disabled
+[2019.03.22-16.09.33:144][  0]SourceControl: Source control is disabled
+[2019.03.22-16.09.33:302][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.22-16.09.33:395][  0]LogOcInput: OculusInput pre-init called
+[2019.03.22-16.09.33:524][  0]LogEngine: Initializing Engine...
+[2019.03.22-16.09.33:525][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.22-16.09.33:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.22-16.09.33:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.22-16.09.33:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.22-16.09.33:526][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.22-16.09.33:786][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.22-16.09.33:799][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.22-16.09.33:827][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.22-16.09.33:846][  0]LogInit: FAudioDevice initialized.
+[2019.03.22-16.09.33:846][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.22-16.09.33:901][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/leodi/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.22-16.09.33:913][  0]LogInit: Texture streaming: Enabled
+[2019.03.22-16.09.33:931][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.22-16.09.33:949][  0]LogInit: Transaction tracking system initialized
+[2019.03.22-16.09.33:973][  0]BlueprintLog: New page: Editor Load
+[2019.03.22-16.09.34:050][  0]LocalizationService: Localization service is disabled
+[2019.03.22-16.09.34:508][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leodi/Google Drive/Data/UE4/Tests/Content/' took 0.02s
+[2019.03.22-16.09.34:508][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.22-16.09.34:508][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.22-16.09.34:508][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.22-16.09.34:508][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.22-16.09.34:508][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.22-16.09.34:508][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.22-16.09.34:508][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.22-16.09.34:633][  0]SourceControl: Source control is disabled
+[2019.03.22-16.09.34:633][  0]Cmd: MAP LOAD FILE="../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.22-16.09.34:633][  0]LightingResults: New page: Lighting Build
+[2019.03.22-16.09.34:636][  0]MapCheck: New page: Map Check
+[2019.03.22-16.09.34:636][  0]LightingResults: New page: Lighting Build
+[2019.03.22-16.09.35:139][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.03.22-16.09.35:153][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.22-16.09.35:177][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.22-16.09.35:177][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2019.03.22-16.09.35:178][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.544
+[2019.03.22-16.09.35:292][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.22-16.09.35:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.22-16.09.35:305][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.22-16.09.35:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.22-16.09.35:324][  0]LogCollectionManager: Loaded 0 collections in 0.002130 seconds
+[2019.03.22-16.09.35:360][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leodi/Google Drive/Data/UE4/Tests/Saved/Collections/' took 0.01s
+[2019.03.22-16.09.35:360][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leodi/Google Drive/Data/UE4/Tests/Content/Developers/leodi/Collections/' took 0.01s
+[2019.03.22-16.09.35:360][  0]LogFileCache: Scanning file cache for directory 'C:/Users/leodi/Google Drive/Data/UE4/Tests/Content/Collections/' took 0.00s
+[2019.03.22-16.09.35:360][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.22-16.09.35:369][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2651 classes and 620 folders.
+[2019.03.22-16.09.35:379][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.22-16.09.35:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:410][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:417][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:439][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.22-16.09.35:648][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.22-16.09.35:660][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.22-16.09.35:694][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.22-16.09.35:696][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.22-16.09.35:704][  0]LogSlate: Took 0.004121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.22-16.09.35:815][  0]LogRenderer: Reallocating scene render targets to support 1776x1008 Format 10 NumSamples 1 (Frame:1).
+[2019.03.22-16.09.35:969][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.22-16.09.35:969][  0]LogLoad: (Engine Initialization) Total time: 9.17 seconds
+[2019.03.22-16.09.35:969][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.22-16.09.36:030][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.22-16.09.36:117][  1]LogAssetRegistry: Asset discovery search completed in 5.3227 seconds
+[2019.03.22-16.09.36:118][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.22-16.09.36:118][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2019.03.22-16.09.37:396][  5]LogSlate: Took 0.003216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.22-16.09.54:494][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-16.09.54:565][706]LogAssetEditorManager: Opening Asset editor for Material /Game/FirstPersonBP/mat.mat
+[2019.03.22-16.09.54:570][706]LogMaterial: Display: Missing cached shader map for material mat, compiling. 
+[2019.03.22-16.09.54:965][706]LogMaterial: Display: Missing cached shader map for material mat, compiling. 
+[2019.03.22-16.09.54:985][706]LogMaterial: Display: Missing cached shader map for material mat, compiling. 
+[2019.03.22-16.09.55:023][706]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.03.22-16.09.55:023][706]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.03.22-16.09.55:023][706]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.03.22-16.09.55:023][706]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.03.22-16.09.55:023][706]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.03.22-16.09.55:023][706]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.22-16.09.55:023][706]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.22-16.09.55:023][706]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.22-16.09.55:037][706]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.03.22-16.09.55:085][706]LogSlate: Took 0.006171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.22-16.09.55:922][724]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.22-16.09.55:952][725]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.22-16.09.55:952][725]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.22-16.09.55:975][726]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.22-16.09.56:048][730]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.22-16.09.56:188][736]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.22-16.09.56:229][737]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.03.22-16.09.56:261][738]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.03.22-16.09.56:479][744]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.03.22-16.09.56:887][752]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.03.22-16.09.57:168][758]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.22-16.09.57:251][760]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.03.22-16.09.57:254][760]LogSlate: Window 'mat' being destroyed
+[2019.03.22-16.09.57:267][760]LogSlate: Window 'mat' being destroyed
+[2019.03.22-16.09.57:390][760]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.03.22-16.09.57:537][764]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.22-16.09.57:643][769]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.22-16.09.57:683][770]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.22-16.09.57:733][771]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.22-16.09.57:757][771]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.22-16.09.58:220][788]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.22-16.09.58:332][791]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.22-16.09.58:451][795]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.22-16.09.58:585][799]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.22-16.10.06:421][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-16.10.15:277][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\BC_Eyes_Dino_Dog.png)
+[2019.03.22-16.10.15:288][415]LogTexture: Display: Building textures: BC_Eyes_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.10.15:309][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\BC_Mouth_Dino_Dog.png)
+[2019.03.22-16.10.15:321][415]LogTexture: Display: Building textures: BC_Mouth_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.10.15:343][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\BC_Nails_Dino_Dog.png)
+[2019.03.22-16.10.15:353][415]LogTexture: Display: Building textures: BC_Nails_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.10.15:374][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\BC_Teeths_Dino_Dog.png)
+[2019.03.22-16.10.15:385][415]LogTexture: Display: Building textures: BC_Teeths_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.10.15:405][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\N_Body_Dino_Dog.png)
+[2019.03.22-16.10.15:422][415]LogTexture: Display: Building textures: N_Body_Dino_Dog (BC5, 512X512)
+[2019.03.22-16.10.15:444][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\N_Eyes_Dino_Dog.png)
+[2019.03.22-16.10.15:460][415]LogTexture: Display: Building textures: N_Eyes_Dino_Dog (BC5, 512X512)
+[2019.03.22-16.10.15:483][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\N_Mouth_Dino_Dog.png)
+[2019.03.22-16.10.15:498][415]LogTexture: Display: Building textures: N_Mouth_Dino_Dog (BC5, 512X512)
+[2019.03.22-16.10.15:524][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\N_Nails_Dino_Dog.png)
+[2019.03.22-16.10.15:542][415]LogTexture: Display: Building textures: N_Nails_Dino_Dog (BC5, 512X512)
+[2019.03.22-16.10.15:570][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\N_Teeths_Dino_Dog.png)
+[2019.03.22-16.10.15:587][415]LogTexture: Display: Building textures: N_Teeths_Dino_Dog (BC5, 512X512)
+[2019.03.22-16.10.15:617][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\sourceimages\BC_Body_Dino_Dog.png)
+[2019.03.22-16.10.15:626][415]LogTexture: Display: Building textures: BC_Body_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.10.37:588][334]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.fbx)
+[2019.03.22-16.10.37:618][334]LogFbx: Loading FBX Scene from C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.fbx
+[2019.03.22-16.10.37:705][334]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.22-16.10.40:967][334]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.22-16.10.40:997][334]LogFbx: =================================================
+[2019.03.22-16.10.40:997][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Top_Teeth] 
+[2019.03.22-16.10.40:997][334]LogFbx: 	Total Deformer Count 1329390480.
+[2019.03.22-16.10.40:997][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:997][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Top_Teeth]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Top_Teeth] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1329390480.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Top_Teeth]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Dwn_Teeth] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1329390480.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Dwn_Teeth]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Dwn_Teeth] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1329390480.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Dwn_Teeth]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Eye] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1365303616.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Eye (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Eye]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Eye_Globe] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1329383088.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Eye_Globe]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Eye] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1365303616.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Eye (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Eye]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Eye_Globe] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1329391264.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Eye_Globe]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:Body_High] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1365303616.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:Body_High (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:Body_High]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:Body] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1325052480.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:Body (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:Body]
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Top_Teeth] 
+[2019.03.22-16.10.40:998][334]LogFbx: 	Total Deformer Count 1329382752.
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:998][334]LogFbx: =================================================
+[2019.03.22-16.10.40:998][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:998][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.40:998][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Top_Teeth]
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Top_Teeth] 
+[2019.03.22-16.10.40:999][334]LogFbx: 	Total Deformer Count 1329382752.
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Top_Teeth]
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Dwn_Teeth] 
+[2019.03.22-16.10.40:999][334]LogFbx: 	Total Deformer Count 1329382752.
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Dwn_Teeth]
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Dwn_Teeth] 
+[2019.03.22-16.10.40:999][334]LogFbx: 	Total Deformer Count 1329382752.
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Dwn_Teeth]
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Eye] 
+[2019.03.22-16.10.40:999][334]LogFbx: 	Total Deformer Count 1365305728.
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Eye (Type Mesh).
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Eye]
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Eye_Globe] 
+[2019.03.22-16.10.40:999][334]LogFbx: 	Total Deformer Count 1329395184.
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Eye_Globe]
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Eye] 
+[2019.03.22-16.10.40:999][334]LogFbx: 	Total Deformer Count 1365305728.
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Eye (Type Mesh).
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Eye]
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Eye_Globe] 
+[2019.03.22-16.10.40:999][334]LogFbx: 	Total Deformer Count 1329394624.
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Eye_Globe]
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node START [BM_Dino_0015:Body_High] 
+[2019.03.22-16.10.40:999][334]LogFbx: 	Total Deformer Count 1365305728.
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:Body_High (Type Mesh).
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node END [BM_Dino_0015:Body_High]
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node START [BM_Dino_0015:Body] 
+[2019.03.22-16.10.40:999][334]LogFbx: 	Total Deformer Count 1325051280.
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.40:999][334]LogFbx: =================================================
+[2019.03.22-16.10.40:999][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.40:999][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:Body (Type Mesh).
+[2019.03.22-16.10.40:999][334]LogFbx: Dumping Node END [BM_Dino_0015:Body]
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Top_Teeth] 
+[2019.03.22-16.10.41:000][334]LogFbx: 	Total Deformer Count 1329391936.
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Top_Teeth]
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Top_Teeth] 
+[2019.03.22-16.10.41:000][334]LogFbx: 	Total Deformer Count 1329391936.
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Top_Teeth]
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Dwn_Teeth] 
+[2019.03.22-16.10.41:000][334]LogFbx: 	Total Deformer Count 1329391936.
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Dwn_Teeth]
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Dwn_Teeth] 
+[2019.03.22-16.10.41:000][334]LogFbx: 	Total Deformer Count 1329391936.
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Dwn_Teeth]
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Top_Teeth] 
+[2019.03.22-16.10.41:000][334]LogFbx: 	Total Deformer Count 1329391936.
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Top_Teeth]
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Top_Teeth] 
+[2019.03.22-16.10.41:000][334]LogFbx: 	Total Deformer Count 1329391936.
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Top_Teeth]
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Top_Teeth] 
+[2019.03.22-16.10.41:000][334]LogFbx: 	Total Deformer Count 1329391936.
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Top_Teeth]
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Top_Teeth] 
+[2019.03.22-16.10.41:000][334]LogFbx: 	Total Deformer Count 1329393616.
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:000][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Top_Teeth (Type Mesh).
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Top_Teeth]
+[2019.03.22-16.10.41:000][334]LogFbx: =================================================
+[2019.03.22-16.10.41:000][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Dwn_Teeth] 
+[2019.03.22-16.10.41:000][334]LogFbx: 	Total Deformer Count 1329394176.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Dwn_Teeth]
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Dwn_Teeth] 
+[2019.03.22-16.10.41:001][334]LogFbx: 	Total Deformer Count 1329394176.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Dwn_Teeth]
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Dwn_Teeth] 
+[2019.03.22-16.10.41:001][334]LogFbx: 	Total Deformer Count 1329394176.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Dwn_Teeth]
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Dwn_Teeth] 
+[2019.03.22-16.10.41:001][334]LogFbx: 	Total Deformer Count 1329381856.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Dwn_Teeth]
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Eye] 
+[2019.03.22-16.10.41:001][334]LogFbx: 	Total Deformer Count 1365300256.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Eye (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Eye]
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Eye_Globe] 
+[2019.03.22-16.10.41:001][334]LogFbx: 	Total Deformer Count 1329389920.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Eye_Globe]
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Eye] 
+[2019.03.22-16.10.41:001][334]LogFbx: 	Total Deformer Count 1365300256.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Eye (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Eye]
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Eye_Globe] 
+[2019.03.22-16.10.41:001][334]LogFbx: 	Total Deformer Count 1329381520.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Eye_Globe]
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Eye] 
+[2019.03.22-16.10.41:001][334]LogFbx: 	Total Deformer Count 1365300256.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Eye (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Eye]
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Eye_Globe] 
+[2019.03.22-16.10.41:001][334]LogFbx: 	Total Deformer Count 1329389584.
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:001][334]LogFbx: =================================================
+[2019.03.22-16.10.41:001][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:001][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.41:001][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Eye_Globe]
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node START [BM_Dino_0015:R_Eye_Globe] 
+[2019.03.22-16.10.41:002][334]LogFbx: 	Total Deformer Count 1329389360.
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:R_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node END [BM_Dino_0015:R_Eye_Globe]
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Eye] 
+[2019.03.22-16.10.41:002][334]LogFbx: 	Total Deformer Count 1365299104.
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Eye (Type Mesh).
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Eye]
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Eye_Globe] 
+[2019.03.22-16.10.41:002][334]LogFbx: 	Total Deformer Count 1537500048.
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Eye_Globe]
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node START [BM_Dino_0015:L_Eye_Globe] 
+[2019.03.22-16.10.41:002][334]LogFbx: 	Total Deformer Count 1537497024.
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:L_Eye_Globe (Type Mesh).
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node END [BM_Dino_0015:L_Eye_Globe]
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node START [BM_Dino_0015:Body_High] 
+[2019.03.22-16.10.41:002][334]LogFbx: 	Total Deformer Count 1365302560.
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:Body_High (Type Mesh).
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node END [BM_Dino_0015:Body_High]
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node START [BM_Dino_0015:Body] 
+[2019.03.22-16.10.41:002][334]LogFbx: 	Total Deformer Count 1325046960.
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.10.41:002][334]LogFbx: =================================================
+[2019.03.22-16.10.41:002][334]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.10.41:002][334]LogFbx: 		[Node Attribute Child 1] BM_Dino_0015:Body (Type Mesh).
+[2019.03.22-16.10.41:002][334]LogFbx: Dumping Node END [BM_Dino_0015:Body]
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:R_Top_Teeth because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:L_Top_Teeth because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:L_Dwn_Teeth because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:R_Dwn_Teeth because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:R_Eye because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:R_Eye_Globe because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:L_Eye because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:L_Eye_Globe because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:Body_High because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Warning: Ignoring mesh BM_Dino_0015:Body because it but no weights. 
+[2019.03.22-16.10.41:008][334]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2019.03.22-16.10.41:008][334]FBXImport: Error: Import failed. 
+[2019.03.22-16.10.42:867][334]LogSlate: Window 'Message' being destroyed
+[2019.03.22-16.10.42:870][334]LogAssetTools: Warning: Failed to import 'C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.fbx'. Failed to create asset '/Game/FirstPersonBP/Dino/Dino'.
+Please see Output Log for details.
+[2019.03.22-16.10.44:871][570]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.10.44:875][570]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.12.12:439][115]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.fbx)
+[2019.03.22-16.12.12:455][115]LogFbx: Loading FBX Scene from C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.fbx
+[2019.03.22-16.12.12:524][115]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.22-16.12.15:599][115]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node START [R_Top_Teeth] 
+[2019.03.22-16.12.15:618][115]LogFbx: 	Total Deformer Count 1330630656.
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node Attribute Child 1] R_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node END [R_Top_Teeth]
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node START [L_Top_Teeth] 
+[2019.03.22-16.12.15:618][115]LogFbx: 	Total Deformer Count 1330630656.
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node Attribute Child 1] L_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node END [L_Top_Teeth]
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node START [L_Dwn_Teeth] 
+[2019.03.22-16.12.15:618][115]LogFbx: 	Total Deformer Count 1330630656.
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node Attribute Child 1] L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node END [L_Dwn_Teeth]
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node START [R_Dwn_Teeth] 
+[2019.03.22-16.12.15:618][115]LogFbx: 	Total Deformer Count 1330630656.
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node Attribute Child 1] R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node END [R_Dwn_Teeth]
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node START [R_Eye] 
+[2019.03.22-16.12.15:618][115]LogFbx: 	Total Deformer Count 1535853616.
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:618][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:618][115]LogFbx: 		[Node Attribute Child 1] R_Eye (Type Mesh).
+[2019.03.22-16.12.15:618][115]LogFbx: Dumping Node END [R_Eye]
+[2019.03.22-16.12.15:618][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [R_Eye_Globe] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1330631744.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] R_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [R_Eye_Globe]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [L_Eye] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1535853616.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] L_Eye (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [L_Eye]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [L_Eye_Globe] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1330631616.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] L_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [L_Eye_Globe]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [Body_High] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1330631616.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] Body_High (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [Body_High]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [Body] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1535868784.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [Body]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [R_Top_Teeth] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1330634560.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] R_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [R_Top_Teeth]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [L_Top_Teeth] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1330634560.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] L_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [L_Top_Teeth]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [L_Dwn_Teeth] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1330634560.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [L_Dwn_Teeth]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [R_Dwn_Teeth] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1330634560.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [R_Dwn_Teeth]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [R_Eye] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1535853616.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node Attribute Child 1] R_Eye (Type Mesh).
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node END [R_Eye]
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: Dumping Node START [R_Eye_Globe] 
+[2019.03.22-16.12.15:619][115]LogFbx: 	Total Deformer Count 1330637184.
+[2019.03.22-16.12.15:619][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:619][115]LogFbx: =================================================
+[2019.03.22-16.12.15:619][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] R_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [R_Eye_Globe]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [L_Eye] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1535853616.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] L_Eye (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [L_Eye]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [L_Eye_Globe] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1330641088.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] L_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [L_Eye_Globe]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [Body_High] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1330641088.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] Body_High (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [Body_High]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [Body] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1535868784.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [Body]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [R_Top_Teeth] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1330633792.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] R_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [R_Top_Teeth]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [L_Top_Teeth] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1330633792.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] L_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [L_Top_Teeth]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [L_Dwn_Teeth] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1330633792.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [L_Dwn_Teeth]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [R_Dwn_Teeth] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1330633792.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [R_Dwn_Teeth]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [R_Top_Teeth] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1364591744.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] R_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node END [R_Top_Teeth]
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: Dumping Node START [L_Top_Teeth] 
+[2019.03.22-16.12.15:620][115]LogFbx: 	Total Deformer Count 1364591744.
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:620][115]LogFbx: =================================================
+[2019.03.22-16.12.15:620][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:620][115]LogFbx: 		[Node Attribute Child 1] L_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [L_Top_Teeth]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [R_Top_Teeth] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1364591744.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] R_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [R_Top_Teeth]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [L_Top_Teeth] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1364604416.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] L_Top_Teeth (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [L_Top_Teeth]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [L_Dwn_Teeth] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1364597760.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [L_Dwn_Teeth]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [R_Dwn_Teeth] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1364597760.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [R_Dwn_Teeth]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [L_Dwn_Teeth] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1364597760.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] L_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [L_Dwn_Teeth]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [R_Dwn_Teeth] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1364592064.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] R_Dwn_Teeth (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [R_Dwn_Teeth]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [R_Eye] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1535855008.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] R_Eye (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [R_Eye]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [R_Eye_Globe] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1364597312.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] R_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [R_Eye_Globe]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [L_Eye] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1535855008.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] L_Eye (Type Mesh).
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node END [L_Eye]
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: Dumping Node START [L_Eye_Globe] 
+[2019.03.22-16.12.15:621][115]LogFbx: 	Total Deformer Count 1364604928.
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:621][115]LogFbx: =================================================
+[2019.03.22-16.12.15:621][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:621][115]LogFbx: 		[Node Attribute Child 1] L_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node END [L_Eye_Globe]
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node START [R_Eye] 
+[2019.03.22-16.12.15:622][115]LogFbx: 	Total Deformer Count 1535853568.
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node Attribute Child 1] R_Eye (Type Mesh).
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node END [R_Eye]
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node START [R_Eye_Globe] 
+[2019.03.22-16.12.15:622][115]LogFbx: 	Total Deformer Count 1364605568.
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node Attribute Child 1] R_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node END [R_Eye_Globe]
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node START [R_Eye_Globe] 
+[2019.03.22-16.12.15:622][115]LogFbx: 	Total Deformer Count 1364600128.
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node Attribute Child 1] R_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node END [R_Eye_Globe]
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node START [L_Eye] 
+[2019.03.22-16.12.15:622][115]LogFbx: 	Total Deformer Count 1535854192.
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node Attribute Child 1] L_Eye (Type Mesh).
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node END [L_Eye]
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node START [L_Eye_Globe] 
+[2019.03.22-16.12.15:622][115]LogFbx: 	Total Deformer Count 1364602176.
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node Attribute Child 1] L_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node END [L_Eye_Globe]
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node START [L_Eye_Globe] 
+[2019.03.22-16.12.15:622][115]LogFbx: 	Total Deformer Count 1364605056.
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node Attribute Child 1] L_Eye_Globe (Type Mesh).
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node END [L_Eye_Globe]
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node START [Body_High] 
+[2019.03.22-16.12.15:622][115]LogFbx: 	Total Deformer Count 1364601216.
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node Attribute Child 1] Body_High (Type Mesh).
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node END [Body_High]
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node START [Body] 
+[2019.03.22-16.12.15:622][115]LogFbx: 	Total Deformer Count 1535857984.
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.15:622][115]LogFbx: =================================================
+[2019.03.22-16.12.15:622][115]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.15:622][115]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.03.22-16.12.15:622][115]LogFbx: Dumping Node END [Body]
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh R_Top_Teeth because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh L_Top_Teeth because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh L_Dwn_Teeth because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh R_Dwn_Teeth because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh R_Eye because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh R_Eye_Globe because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh L_Eye because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh L_Eye_Globe because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh Body_High because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Warning: Ignoring mesh Body because it but no weights. 
+[2019.03.22-16.12.15:628][115]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2019.03.22-16.12.15:628][115]FBXImport: Error: Import failed. 
+[2019.03.22-16.12.28:431][115]LogSlate: Window 'Message' being destroyed
+[2019.03.22-16.12.28:433][115]LogAssetTools: Warning: Failed to import 'C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.fbx'. Failed to create asset '/Game/FirstPersonBP/Dino/Dino'.
+Please see Output Log for details.
+[2019.03.22-16.12.32:614][597]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.12.32:617][597]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.12.53:189][971]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.fbx)
+[2019.03.22-16.12.53:200][971]LogFbx: Loading FBX Scene from C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.fbx
+[2019.03.22-16.12.53:227][971]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.22-16.12.54:374][971]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.22-16.12.54:390][971]LogFbx: =================================================
+[2019.03.22-16.12.54:390][971]LogFbx: Dumping Node START [Body] 
+[2019.03.22-16.12.54:390][971]LogFbx: 	Total Deformer Count 1364611984.
+[2019.03.22-16.12.54:390][971]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.54:390][971]LogFbx: =================================================
+[2019.03.22-16.12.54:390][971]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.54:390][971]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.03.22-16.12.54:390][971]LogFbx: Dumping Node END [Body]
+[2019.03.22-16.12.54:390][971]LogFbx: =================================================
+[2019.03.22-16.12.54:390][971]LogFbx: Dumping Node START [Body] 
+[2019.03.22-16.12.54:390][971]LogFbx: 	Total Deformer Count 1364611984.
+[2019.03.22-16.12.54:390][971]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.54:390][971]LogFbx: =================================================
+[2019.03.22-16.12.54:390][971]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.54:390][971]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.03.22-16.12.54:390][971]LogFbx: Dumping Node END [Body]
+[2019.03.22-16.12.54:390][971]LogFbx: =================================================
+[2019.03.22-16.12.54:390][971]LogFbx: Dumping Node START [Body] 
+[2019.03.22-16.12.54:390][971]LogFbx: 	Total Deformer Count 1364611984.
+[2019.03.22-16.12.54:390][971]LogFbx: 		[Node 1]  (Type Skin).
+[2019.03.22-16.12.54:390][971]LogFbx: =================================================
+[2019.03.22-16.12.54:390][971]LogFbx: 	Attribute () Type (4).
+[2019.03.22-16.12.54:390][971]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2019.03.22-16.12.54:390][971]LogFbx: Dumping Node END [Body]
+[2019.03.22-16.12.54:392][971]LogFbx: Valid bind pose for Pose (skinCluster25) - Body
+[2019.03.22-16.12.54:399][971]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.22-16.12.54:399][971]FBXImport: Error: Error, Could not import Body.
+Duplicate bone name found ('joint1'). Each bone must have a unique name. 
+[2019.03.22-16.12.54:399][971]FBXImport: Error: Multiple roots found 
+[2019.03.22-16.12.54:399][971]FBXImport: Warning: Get Import Data has failed. 
+[2019.03.22-16.12.54:399][971]FBXImport: Error: Import failed. 
+[2019.03.22-16.12.55:470][971]LogSlate: Window 'Message' being destroyed
+[2019.03.22-16.12.55:472][971]LogAssetTools: Warning: Failed to import 'C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.fbx'. Failed to create asset '/Game/FirstPersonBP/Dino/Dino'.
+Please see Output Log for details.
+[2019.03.22-16.12.57:134][169]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.12.57:137][169]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.13.35:374][435]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.obj)
+[2019.03.22-16.13.35:417][435]LogFbx: Loading FBX Scene from C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.obj
+[2019.03.22-16.13.36:768][435]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.22-16.13.38:882][435]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.22-16.13.39:054][435]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\BC_Body_Dino_Dog.png
+[2019.03.22-16.13.39:057][435]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2019.03.22-16.13.39:073][435]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\BC_Mouth_Dino_Dog.png
+[2019.03.22-16.13.39:076][435]LogMaterial: Display: Missing cached shader map for material lambert4SG, compiling. 
+[2019.03.22-16.13.39:086][435]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.22-16.13.39:086][435]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.22-16.13.39:086][435]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.22-16.13.39:090][435]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\BC_Nails_Dino_Dog.png
+[2019.03.22-16.13.39:093][435]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2019.03.22-16.13.39:105][435]LogFbx: Warning: Triangulating static mesh GRP_GEO_Body
+[2019.03.22-16.13.41:019][435]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.03.22-16.13.41:020][435]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.22-16.13.41:020][435]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.22-16.13.41:020][435]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.03.22-16.13.41:020][435]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.22-16.13.41:167][435]LogStaticMesh: Building static mesh Dino_GRP_GEO_Body...
+[2019.03.22-16.13.41:975][435]LogStaticMesh: Built static mesh [0.81s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body.Dino_GRP_GEO_Body
+[2019.03.22-16.13.42:156][435]LogMaterial: Display: Missing cached shader map for material blinn1SG, compiling. 
+[2019.03.22-16.13.42:170][435]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.22-16.13.42:170][435]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.22-16.13.42:170][435]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.22-16.13.42:170][435]LogFbx: Warning: Triangulating static mesh GRP_GEO_Body_High
+[2019.03.22-16.13.48:373][435]LogStaticMesh: Building static mesh Dino_GRP_GEO_Body_High...
+[2019.03.22-16.13.54:433][435]LogStaticMesh: Built static mesh [6.06s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body_High.Dino_GRP_GEO_Body_High
+[2019.03.22-16.13.54:855][435]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\BC_Eyes_Dino_Dog.png
+[2019.03.22-16.13.54:858][435]LogMaterial: Display: Missing cached shader map for material blinn1SG1, compiling. 
+[2019.03.22-16.13.54:869][435]LogFbx: Warning: Triangulating static mesh GRP_GEO_Eyes_L_Eye
+[2019.03.22-16.13.55:749][435]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.22-16.13.55:749][435]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.22-16.13.55:749][435]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.22-16.13.55:797][435]LogStaticMesh: Building static mesh Dino_GRP_GEO_Eyes_L_Eye...
+[2019.03.22-16.13.56:067][435]LogStaticMesh: Built static mesh [0.27s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye.Dino_GRP_GEO_Eyes_L_Eye
+[2019.03.22-16.13.56:133][435]LogFbx: Warning: Triangulating static mesh GRP_GEO_Eyes_L_Eye_L_Eye_Globe
+[2019.03.22-16.13.56:162][435]LogStaticMesh: Building static mesh Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe...
+[2019.03.22-16.13.56:165][435]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe.Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe
+[2019.03.22-16.13.56:181][435]LogFbx: Warning: Triangulating static mesh GRP_GEO_R_Eye_Eyes
+[2019.03.22-16.13.57:105][435]LogStaticMesh: Building static mesh Dino_GRP_GEO_R_Eye_Eyes...
+[2019.03.22-16.13.57:309][435]LogStaticMesh: Built static mesh [0.21s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes.Dino_GRP_GEO_R_Eye_Eyes
+[2019.03.22-16.13.57:364][435]LogFbx: Warning: Triangulating static mesh GRP_GEO_R_Eye_Eyes_R_Eye_Globe
+[2019.03.22-16.13.57:390][435]LogStaticMesh: Building static mesh Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe...
+[2019.03.22-16.13.57:393][435]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe.Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe
+[2019.03.22-16.13.57:408][435]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\BC_Teeths_Dino_Dog.png
+[2019.03.22-16.13.57:411][435]LogMaterial: Display: Missing cached shader map for material lambert1SG, compiling. 
+[2019.03.22-16.13.57:422][435]LogFbx: Warning: Triangulating static mesh R_Top_Teeth_Top_Theeths_GRP_GEO
+[2019.03.22-16.13.57:648][435]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.22-16.13.57:648][435]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.22-16.13.57:648][435]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.22-16.13.57:660][435]LogStaticMesh: Building static mesh Dino_R_Top_Teeth_Top_Theeths_GRP_GEO...
+[2019.03.22-16.13.57:691][435]LogStaticMesh: Built static mesh [0.03s] /Game/FirstPersonBP/Dino/Dino_R_Top_Teeth_Top_Theeths_GRP_GEO.Dino_R_Top_Teeth_Top_Theeths_GRP_GEO
+[2019.03.22-16.13.57:722][435]LogFbx: Warning: Triangulating static mesh Theeths_GRP_GEO_Down_R_Dwn_Teeth
+[2019.03.22-16.13.57:978][435]LogStaticMesh: Building static mesh Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth...
+[2019.03.22-16.13.58:005][435]LogStaticMesh: Built static mesh [0.03s] /Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth.Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth
+[2019.03.22-16.13.58:032][435]LogFbx: Warning: Triangulating static mesh Theeths_GRP_GEO_L_Dwn_Teeth_Down
+[2019.03.22-16.13.58:287][435]LogStaticMesh: Building static mesh Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down...
+[2019.03.22-16.13.58:334][435]LogStaticMesh: Built static mesh [0.05s] /Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down.Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down
+[2019.03.22-16.13.58:371][435]LogFbx: Warning: Triangulating static mesh Top_Theeths_GRP_GEO_L_Top_Teeth
+[2019.03.22-16.13.58:629][435]LogStaticMesh: Building static mesh Dino_Top_Theeths_GRP_GEO_L_Top_Teeth...
+[2019.03.22-16.13.58:675][435]LogStaticMesh: Built static mesh [0.05s] /Game/FirstPersonBP/Dino/Dino_Top_Theeths_GRP_GEO_L_Top_Teeth.Dino_Top_Theeths_GRP_GEO_L_Top_Teeth
+[2019.03.22-16.13.58:712][435]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.22-16.14.05:932][728]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.14.05:935][728]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.14.19:209][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-16.14.21:780][609]LogActorFactory: Actor Factory created Dino_GRP_GEO_Body
+[2019.03.22-16.14.23:378][797]LogActorFactory: Actor Factory created Dino_GRP_GEO_Body
+[2019.03.22-16.14.23:971][856]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.22-16.14.26:425][142]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.22-16.14.31:185][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-16.14.33:760][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dino_GRP_GEO_Body)
+[2019.03.22-16.14.35:981][256]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (37.131 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.22-16.14.41:113][855]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.22-16.14.42:852][ 53]Cmd: TRANSACTION UNDO
+[2019.03.22-16.14.42:852][ 53]LogEditorTransaction: Undo Move Actors
+[2019.03.22-16.14.44:525][229]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.22-16.14.53:693][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cubo)
+[2019.03.22-16.14.54:897][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-16.14.56:002][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dino_GRP_GEO_Body)
+[2019.03.22-16.14.56:394][530]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.22-16.15.01:144][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-16.15.01:254][ 75]LogActorFactory: Actor Factory created Dino_GRP_GEO_R_Eye_Eyes
+[2019.03.22-16.15.02:932][248]LogActorFactory: Actor Factory created Dino_GRP_GEO_R_Eye_Eyes
+[2019.03.22-16.15.03:577][319]Cmd: TRANSACTION UNDO
+[2019.03.22-16.15.03:577][319]LogEditorTransaction: Undo Create Actors
+[2019.03.22-16.15.03:927][346]Cmd: TRANSACTION UNDO
+[2019.03.22-16.15.03:927][346]LogEditorTransaction: Undo Clicking on Actors
+[2019.03.22-16.15.04:418][395]Cmd: TRANSACTION UNDO
+[2019.03.22-16.15.04:418][395]LogEditorTransaction: Undo Set Actor Visibility
+[2019.03.22-16.15.05:428][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dino_GRP_GEO_Body)
+[2019.03.22-16.15.05:894][562]Cmd: DELETE
+[2019.03.22-16.15.05:894][562]Cmd: ACTOR DELETE
+[2019.03.22-16.15.05:898][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.22-16.15.05:950][562]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.03.22-16.16.16:800][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.22-16.16.31:109][213]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.22-16.17.06:793][631]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.obj)
+[2019.03.22-16.17.06:836][631]LogFbx: Loading FBX Scene from C:\Users\leodi\Google Drive\Data\Maya\Cartoon_Character_Girl\Dino.obj
+[2019.03.22-16.17.08:153][631]LogFbx: FBX Scene Loaded Succesfully
+[2019.03.22-16.17.11:430][631]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.03.22-16.17.11:469][631]LogTexture: Display: Building textures: BC_Body_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.17.11:485][631]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2019.03.22-16.17.11:486][631]LogMaterial: Warning: /Game/FirstPersonBP/Dino/lambert2SG.lambert2SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.22-16.17.11:486][631]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/FirstPersonBP/Dino/BC_Body_Dino_Dog.BC_Body_Dino_Dog
+[2019.03.22-16.17.11:499][631]LogTexture: Display: Building textures: BC_Mouth_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.17.11:508][631]LogMaterial: Display: Missing cached shader map for material lambert4SG, compiling. 
+[2019.03.22-16.17.11:508][631]LogMaterial: Warning: /Game/FirstPersonBP/Dino/lambert4SG.lambert4SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.22-16.17.11:508][631]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/FirstPersonBP/Dino/BC_Mouth_Dino_Dog.BC_Mouth_Dino_Dog
+[2019.03.22-16.17.11:524][631]LogTexture: Display: Building textures: BC_Nails_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.17.11:536][631]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2019.03.22-16.17.11:537][631]LogMaterial: Warning: /Game/FirstPersonBP/Dino/lambert3SG.lambert3SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.22-16.17.11:537][631]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/FirstPersonBP/Dino/BC_Nails_Dino_Dog.BC_Nails_Dino_Dog
+[2019.03.22-16.17.11:538][631]LogFbx: Warning: Triangulating static mesh GRP_GEO_Body
+[2019.03.22-16.17.12:766][631]LogStaticMesh: Building static mesh Dino_GRP_GEO_Body...
+[2019.03.22-16.17.13:121][631]LogStaticMesh: Built static mesh [0.36s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body.Dino_GRP_GEO_Body
+[2019.03.22-16.17.13:208][631]LogMaterial: Display: Missing cached shader map for material blinn1SG, compiling. 
+[2019.03.22-16.17.13:219][631]LogFbx: Warning: Triangulating static mesh GRP_GEO_Body_High
+[2019.03.22-16.17.18:642][631]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.22-16.17.18:642][631]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.22-16.17.18:642][631]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.22-16.17.18:918][631]LogStaticMesh: Building static mesh Dino_GRP_GEO_Body_High...
+[2019.03.22-16.17.24:978][631]LogStaticMesh: Built static mesh [6.06s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body_High.Dino_GRP_GEO_Body_High
+[2019.03.22-16.17.25:396][631]LogTexture: Display: Building textures: BC_Eyes_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.17.25:408][631]LogMaterial: Display: Missing cached shader map for material blinn1SG1, compiling. 
+[2019.03.22-16.17.25:409][631]LogMaterial: Warning: /Game/FirstPersonBP/Dino/blinn1SG1.blinn1SG1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.22-16.17.25:409][631]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/FirstPersonBP/Dino/BC_Eyes_Dino_Dog.BC_Eyes_Dino_Dog
+[2019.03.22-16.17.25:410][631]LogFbx: Warning: Triangulating static mesh GRP_GEO_Eyes_L_Eye
+[2019.03.22-16.17.26:220][631]LogStaticMesh: Building static mesh Dino_GRP_GEO_Eyes_L_Eye...
+[2019.03.22-16.17.26:430][631]LogStaticMesh: Built static mesh [0.21s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye.Dino_GRP_GEO_Eyes_L_Eye
+[2019.03.22-16.17.26:483][631]LogFbx: Warning: Triangulating static mesh GRP_GEO_Eyes_L_Eye_L_Eye_Globe
+[2019.03.22-16.17.26:507][631]LogStaticMesh: Building static mesh Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe...
+[2019.03.22-16.17.26:510][631]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe.Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe
+[2019.03.22-16.17.26:515][631]LogFbx: Warning: Triangulating static mesh GRP_GEO_R_Eye_Eyes
+[2019.03.22-16.17.27:305][631]LogStaticMesh: Building static mesh Dino_GRP_GEO_R_Eye_Eyes...
+[2019.03.22-16.17.27:509][631]LogStaticMesh: Built static mesh [0.20s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes.Dino_GRP_GEO_R_Eye_Eyes
+[2019.03.22-16.17.27:561][631]LogFbx: Warning: Triangulating static mesh GRP_GEO_R_Eye_Eyes_R_Eye_Globe
+[2019.03.22-16.17.27:585][631]LogStaticMesh: Building static mesh Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe...
+[2019.03.22-16.17.27:588][631]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe.Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe
+[2019.03.22-16.17.27:606][631]LogTexture: Display: Building textures: BC_Teeths_Dino_Dog (AutoDXT, 512X512)
+[2019.03.22-16.17.27:615][631]LogMaterial: Display: Missing cached shader map for material lambert1SG, compiling. 
+[2019.03.22-16.17.27:615][631]LogMaterial: Warning: /Game/FirstPersonBP/Dino/lambert1SG.lambert1SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.22-16.17.27:615][631]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/FirstPersonBP/Dino/BC_Teeths_Dino_Dog.BC_Teeths_Dino_Dog
+[2019.03.22-16.17.27:616][631]LogFbx: Warning: Triangulating static mesh R_Top_Teeth_Top_Theeths_GRP_GEO
+[2019.03.22-16.17.27:813][631]LogStaticMesh: Building static mesh Dino_R_Top_Teeth_Top_Theeths_GRP_GEO...
+[2019.03.22-16.17.27:835][631]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPersonBP/Dino/Dino_R_Top_Teeth_Top_Theeths_GRP_GEO.Dino_R_Top_Teeth_Top_Theeths_GRP_GEO
+[2019.03.22-16.17.27:848][631]LogFbx: Warning: Triangulating static mesh Theeths_GRP_GEO_Down_R_Dwn_Teeth
+[2019.03.22-16.17.28:043][631]LogStaticMesh: Building static mesh Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth...
+[2019.03.22-16.17.28:066][631]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth.Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth
+[2019.03.22-16.17.28:081][631]LogFbx: Warning: Triangulating static mesh Theeths_GRP_GEO_L_Dwn_Teeth_Down
+[2019.03.22-16.17.28:295][631]LogStaticMesh: Building static mesh Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down...
+[2019.03.22-16.17.28:323][631]LogStaticMesh: Built static mesh [0.03s] /Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down.Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down
+[2019.03.22-16.17.28:338][631]LogFbx: Warning: Triangulating static mesh Top_Theeths_GRP_GEO_L_Top_Teeth
+[2019.03.22-16.17.28:552][631]LogStaticMesh: Building static mesh Dino_Top_Theeths_GRP_GEO_L_Top_Teeth...
+[2019.03.22-16.17.28:580][631]LogStaticMesh: Built static mesh [0.03s] /Game/FirstPersonBP/Dino/Dino_Top_Theeths_GRP_GEO_L_Top_Teeth.Dino_Top_Theeths_GRP_GEO_L_Top_Teeth
+[2019.03.22-16.17.28:604][631]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.03.22-16.17.32:274][ 54]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.17.32:277][ 54]LogSlate: Window 'Message Log' being destroyed
+[2019.03.22-16.17.33:494][198]LogActorFactory: Actor Factory created Dino_GRP_GEO_Body
+[2019.03.22-16.17.34:877][362]LogActorFactory: Actor Factory created Dino_GRP_GEO_Body
+[2019.03.22-16.17.37:161][626]LogSlate: Took 0.003463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.22-16.17.40:162][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-16.17.42:554][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dino_GRP_GEO_Body)
+[2019.03.22-16.17.48:198][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.22-16.17.48:429][928]LogActorFactory: Actor Factory created Dino_GRP_GEO_Eyes_L_Eye
+[2019.03.22-16.17.49:836][ 72]LogActorFactory: Actor Factory created Dino_GRP_GEO_Eyes_L_Eye
+[2019.03.22-16.18.00:933][329]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.03.22-16.19.36:301][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/FirstPersonExampleMap_Auto1535F1D3E4C94B0AC869AE68B8C12813E.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.03.22-16.19.36:308][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.193
+[2019.03.22-16.19.36:308][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2019.03.22-16.19.36:309][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/BC_Eyes_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:316][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/BC_Eyes_Dino_Dog.BC_Eyes_Dino_Dog]
+[2019.03.22-16.19.36:316][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/BC_Eyes_Dino_Dog]
+[2019.03.22-16.19.36:326][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/BC_Eyes_Dino_Dog_Auto11A12BDD547C0C4B3616CA79C786B23B2.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/BC_Eyes_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:328][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/BC_Mouth_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:334][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/BC_Mouth_Dino_Dog.BC_Mouth_Dino_Dog]
+[2019.03.22-16.19.36:334][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/BC_Mouth_Dino_Dog]
+[2019.03.22-16.19.36:344][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/BC_Mouth_Dino_Dog_Auto11C0C497A462EF5492344999E25098F98.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/BC_Mouth_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:345][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/BC_Nails_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:351][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/BC_Nails_Dino_Dog.BC_Nails_Dino_Dog]
+[2019.03.22-16.19.36:351][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/BC_Nails_Dino_Dog]
+[2019.03.22-16.19.36:362][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/BC_Nails_Dino_Dog_Auto1D86DE23D4141850E760A5183DAEC2763.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/BC_Nails_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:364][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/BC_Teeths_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:370][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/BC_Teeths_Dino_Dog.BC_Teeths_Dino_Dog]
+[2019.03.22-16.19.36:370][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/BC_Teeths_Dino_Dog]
+[2019.03.22-16.19.36:380][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/BC_Teeths_Dino_Dog_Auto1B9B8B9BA411082C3138A41815AD269A0.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/BC_Teeths_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:382][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/N_Body_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:389][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/N_Body_Dino_Dog.N_Body_Dino_Dog]
+[2019.03.22-16.19.36:389][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/N_Body_Dino_Dog]
+[2019.03.22-16.19.36:399][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/N_Body_Dino_Dog_Auto1E4055A354969F7388A6BE0931698400F.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/N_Body_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:401][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/N_Eyes_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:408][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/N_Eyes_Dino_Dog.N_Eyes_Dino_Dog]
+[2019.03.22-16.19.36:408][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/N_Eyes_Dino_Dog]
+[2019.03.22-16.19.36:419][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/N_Eyes_Dino_Dog_Auto1D1C229D142510F621E6591915223F24A.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/N_Eyes_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:420][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/N_Mouth_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:426][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/N_Mouth_Dino_Dog.N_Mouth_Dino_Dog]
+[2019.03.22-16.19.36:426][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/N_Mouth_Dino_Dog]
+[2019.03.22-16.19.36:436][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/N_Mouth_Dino_Dog_Auto179B440EB4DCA02494E300BB92ED0090D.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/N_Mouth_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:438][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/N_Nails_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:444][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/N_Nails_Dino_Dog.N_Nails_Dino_Dog]
+[2019.03.22-16.19.36:445][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/N_Nails_Dino_Dog]
+[2019.03.22-16.19.36:456][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/N_Nails_Dino_Dog_Auto128EAE71740281B6F8FEEEDB042C9F0F7.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/N_Nails_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:458][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/N_Teeths_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:465][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/N_Teeths_Dino_Dog.N_Teeths_Dino_Dog]
+[2019.03.22-16.19.36:465][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/N_Teeths_Dino_Dog]
+[2019.03.22-16.19.36:475][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/N_Teeths_Dino_Dog_Auto1474F07064DDCABA15DD998A4A745A62E.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/N_Teeths_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:477][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/BC_Body_Dino_Dog] ([1] browsable assets)...
+[2019.03.22-16.19.36:483][ 88]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Dino/BC_Body_Dino_Dog.BC_Body_Dino_Dog]
+[2019.03.22-16.19.36:483][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/BC_Body_Dino_Dog]
+[2019.03.22-16.19.36:493][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/BC_Body_Dino_Dog_Auto128456FD844E1852F238B4D8FBFAA70D5.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/BC_Body_Dino_Dog_Auto1.uasset'
+[2019.03.22-16.19.36:500][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_Auto1F6130DFF4430D4B71A5EFBA2B70EBF9C.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_Auto1.uasset'
+[2019.03.22-16.19.36:501][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body] ([1] browsable assets)...
+[2019.03.22-16.19.36:512][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body.Dino_GRP_GEO_Body]
+[2019.03.22-16.19.36:512][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body]
+[2019.03.22-16.19.36:529][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_GRP_GEO_Body_Auto18144EA1F4B9509E1FFD6FEB19241E395.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body_Auto1.uasset'
+[2019.03.22-16.19.36:531][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/lambert2SG] ([1] browsable assets)...
+[2019.03.22-16.19.36:542][ 88]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Dino/lambert2SG.lambert2SG]
+[2019.03.22-16.19.36:542][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/lambert2SG]
+[2019.03.22-16.19.36:556][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/lambert2SG_Auto146DCE86A429D4D1306309B96C46B95C9.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/lambert2SG_Auto1.uasset'
+[2019.03.22-16.19.36:558][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/lambert4SG] ([1] browsable assets)...
+[2019.03.22-16.19.36:569][ 88]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Dino/lambert4SG.lambert4SG]
+[2019.03.22-16.19.36:569][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/lambert4SG]
+[2019.03.22-16.19.36:583][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/lambert4SG_Auto1D2DD553548D6B14EEEDEB1A040884E6C.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/lambert4SG_Auto1.uasset'
+[2019.03.22-16.19.36:585][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/lambert3SG] ([1] browsable assets)...
+[2019.03.22-16.19.36:595][ 88]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Dino/lambert3SG.lambert3SG]
+[2019.03.22-16.19.36:595][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/lambert3SG]
+[2019.03.22-16.19.36:611][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/lambert3SG_Auto173C8A35545ACA6B04D8CCDB9574F16F4.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/lambert3SG_Auto1.uasset'
+[2019.03.22-16.19.36:613][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body_High] ([1] browsable assets)...
+[2019.03.22-16.19.36:623][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body_High.Dino_GRP_GEO_Body_High]
+[2019.03.22-16.19.36:623][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body_High]
+[2019.03.22-16.19.36:646][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_GRP_GEO_Body_High_Auto1B9D52CED48497C68599CB49A6D8D0CC3.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Body_High_Auto1.uasset'
+[2019.03.22-16.19.36:648][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/blinn1SG] ([1] browsable assets)...
+[2019.03.22-16.19.36:658][ 88]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Dino/blinn1SG.blinn1SG]
+[2019.03.22-16.19.36:658][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/blinn1SG]
+[2019.03.22-16.19.36:673][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/blinn1SG_Auto1BA7E7B954DB149615DC96CA57D148CB2.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/blinn1SG_Auto1.uasset'
+[2019.03.22-16.19.36:674][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye] ([1] browsable assets)...
+[2019.03.22-16.19.36:685][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye.Dino_GRP_GEO_Eyes_L_Eye]
+[2019.03.22-16.19.36:685][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye]
+[2019.03.22-16.19.36:701][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_GRP_GEO_Eyes_L_Eye_Auto16BFBBEEB4F9FF166F8DEAFAC7D9D6080.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye_Auto1.uasset'
+[2019.03.22-16.19.36:703][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/blinn1SG1] ([1] browsable assets)...
+[2019.03.22-16.19.36:713][ 88]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Dino/blinn1SG1.blinn1SG1]
+[2019.03.22-16.19.36:713][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/blinn1SG1]
+[2019.03.22-16.19.36:729][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/blinn1SG1_Auto1841599434FC53F7538B531B1AA05D98D.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/blinn1SG1_Auto1.uasset'
+[2019.03.22-16.19.36:731][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe] ([1] browsable assets)...
+[2019.03.22-16.19.36:741][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe.Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe]
+[2019.03.22-16.19.36:741][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe]
+[2019.03.22-16.19.36:758][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_GRP_GEO_Eyes_L_Eye_L_Eye_GlD37C120243554B038180D386479FE869.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_GRP_GEO_Eyes_L_Eye_L_Eye_Globe_Auto1.uasset'
+[2019.03.22-16.19.36:760][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes] ([1] browsable assets)...
+[2019.03.22-16.19.36:771][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes.Dino_GRP_GEO_R_Eye_Eyes]
+[2019.03.22-16.19.36:771][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes]
+[2019.03.22-16.19.36:788][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_GRP_GEO_R_Eye_Eyes_Auto14D6D5F3C479418BF9BB44BBF6E4AE7BB.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes_Auto1.uasset'
+[2019.03.22-16.19.36:790][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe] ([1] browsable assets)...
+[2019.03.22-16.19.36:801][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe.Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe]
+[2019.03.22-16.19.36:801][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe]
+[2019.03.22-16.19.36:817][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_GRP_GEO_R_Eye_Eyes_R_Eye_GlEBF0C8BA45AF4FAB6E0F5495D8C142B5.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_GRP_GEO_R_Eye_Eyes_R_Eye_Globe_Auto1.uasset'
+[2019.03.22-16.19.36:818][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_R_Top_Teeth_Top_Theeths_GRP_GEO] ([1] browsable assets)...
+[2019.03.22-16.19.36:828][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_R_Top_Teeth_Top_Theeths_GRP_GEO.Dino_R_Top_Teeth_Top_Theeths_GRP_GEO]
+[2019.03.22-16.19.36:828][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_R_Top_Teeth_Top_Theeths_GRP_GEO]
+[2019.03.22-16.19.36:844][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_R_Top_Teeth_Top_Theeths_GRP724D4B7C4A856403342FBA954B6743C0.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_R_Top_Teeth_Top_Theeths_GRP_GEO_Auto1.uasset'
+[2019.03.22-16.19.36:845][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/lambert1SG] ([1] browsable assets)...
+[2019.03.22-16.19.36:856][ 88]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Dino/lambert1SG.lambert1SG]
+[2019.03.22-16.19.36:856][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/lambert1SG]
+[2019.03.22-16.19.36:873][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/lambert1SG_Auto104593EC74B99D0D41AE2B19FF54AD688.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/lambert1SG_Auto1.uasset'
+[2019.03.22-16.19.36:875][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth] ([1] browsable assets)...
+[2019.03.22-16.19.36:886][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth.Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth]
+[2019.03.22-16.19.36:886][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth]
+[2019.03.22-16.19.36:901][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_Theeths_GRP_GEO_Down_R_Dwn_5815442D4EF5BF6F450A27B3D2541B8A.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_Down_R_Dwn_Teeth_Auto1.uasset'
+[2019.03.22-16.19.36:903][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down] ([1] browsable assets)...
+[2019.03.22-16.19.36:913][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down.Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down]
+[2019.03.22-16.19.36:913][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down]
+[2019.03.22-16.19.36:930][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_Theeths_GRP_GEO_L_Dwn_Teeth6A7E50954AFAEA2001D190BF917EBC9E.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_Theeths_GRP_GEO_L_Dwn_Teeth_Down_Auto1.uasset'
+[2019.03.22-16.19.36:932][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Dino/Dino_Top_Theeths_GRP_GEO_L_Top_Teeth] ([1] browsable assets)...
+[2019.03.22-16.19.36:944][ 88]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Dino/Dino_Top_Theeths_GRP_GEO_L_Top_Teeth.Dino_Top_Theeths_GRP_GEO_L_Top_Teeth]
+[2019.03.22-16.19.36:944][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Dino/Dino_Top_Theeths_GRP_GEO_L_Top_Teeth]
+[2019.03.22-16.19.36:960][ 88]LogSavePackage: Moving '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Dino_Top_Theeths_GRP_GEO_L_Top_TA5FB77B6461F07E91B1589913371DD5A.tmp' to '../../../../../../Users/leodi/Google Drive/Data/UE4/Tests/Saved/Autosaves/Game/FirstPersonBP/Dino/Dino_Top_Theeths_GRP_GEO_L_Top_Teeth_Auto1.uasset'
+[2019.03.22-16.19.36:961][ 88]LogFileHelpers: Auto-saving content packages took 0.652
+[2019.03.22-16.48.25:436][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.22-16.48.29:150][212]LogSlate: Window 'Save Content' being destroyed
+[2019.03.22-16.48.29:272][212]LogSlate: Window 'Tests - Unreal Editor' being destroyed
+[2019.03.22-16.48.29:677][213]Cmd: QUIT_EDITOR
+[2019.03.22-16.48.29:867][213]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.22-16.48.29:890][213]LogExit: Preparing to exit.
+[2019.03.22-16.48.32:099][213]LogExit: Editor shut down
+[2019.03.22-16.48.32:100][213]LogExit: Transaction tracking system shut down
+[2019.03.22-16.48.33:884][213]LogExit: Object subsystem successfully closed.
+[2019.03.22-16.48.39:934][213]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.22-16.48.39:939][213]LogD3D11RHI: Shutdown
+[2019.03.22-16.48.39:939][213]LogD3D11RHI: CleanupD3DDevice
+[2019.03.22-16.48.39:942][213]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.22-16.48.39:986][213]LogModuleManager: Shutting down and abandoning module MeshBuilder (624)
+[2019.03.22-16.48.39:986][213]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.03.22-16.48.39:986][213]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.03.22-16.48.39:986][213]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.03.22-16.48.39:991][213]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.03.22-16.48.39:992][213]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.03.22-16.48.39:993][213]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.03.22-16.48.41:469][213]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.03.22-16.48.41:469][213]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.03.22-16.48.41:469][213]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.03.22-16.48.41:469][213]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.03.22-16.48.41:470][213]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.03.22-16.48.41:471][213]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.03.22-16.48.41:471][213]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.03.22-16.48.41:471][213]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.03.22-16.48.41:471][213]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.03.22-16.48.41:471][213]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.03.22-16.48.41:471][213]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.03.22-16.48.41:471][213]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.03.22-16.48.41:727][213]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.03.22-16.48.41:727][213]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.03.22-16.48.41:727][213]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.03.22-16.48.41:727][213]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.03.22-16.48.41:727][213]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.03.22-16.48.41:727][213]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.03.22-16.48.41:732][213]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.03.22-16.48.41:733][213]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.03.22-16.48.41:733][213]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.03.22-16.48.41:733][213]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.03.22-16.48.41:734][213]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.03.22-16.48.41:735][213]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.03.22-16.48.41:735][213]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.03.22-16.48.41:735][213]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.03.22-16.48.41:735][213]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.03.22-16.48.41:735][213]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.03.22-16.48.41:738][213]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.03.22-16.48.42:021][213]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.03.22-16.48.42:024][213]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.03.22-16.48.42:024][213]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.03.22-16.48.42:024][213]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.03.22-16.48.42:024][213]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.22-16.48.42:025][213]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.03.22-16.48.42:026][213]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.03.22-16.48.42:180][213]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.03.22-16.48.42:281][213]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.22-16.48.42:281][213]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.22-16.48.42:281][213]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.22-16.48.42:281][213]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.22-16.48.42:281][213]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.22-16.48.42:281][213]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.22-16.48.42:281][213]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.22-16.48.42:283][213]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.22-16.48.42:283][213]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.22-16.48.42:283][213]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.22-16.48.42:283][213]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.22-16.48.42:284][213]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.22-16.48.42:286][213]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.22-16.48.42:286][213]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.22-16.48.42:286][213]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.22-16.48.42:286][213]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.22-16.48.42:286][213]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.22-16.48.42:286][213]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.22-16.48.42:286][213]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.22-16.48.42:290][213]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.22-16.48.42:296][213]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.22-16.48.42:296][213]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.22-16.48.42:296][213]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.22-16.48.42:296][213]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.22-16.48.42:296][213]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.22-16.48.42:296][213]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.22-16.48.42:296][213]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.22-16.48.42:296][213]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.22-16.48.42:296][213]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.22-16.48.42:297][213]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.22-16.48.42:300][213]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.22-16.48.42:357][213]LogDerivedDataCache: Shutdown
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.22-16.48.42:357][213]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.22-16.48.42:358][213]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.22-16.48.42:358][213]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.22-16.48.42:358][213]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.22-16.48.42:358][213]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.22-16.48.42:358][213]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.22-16.48.42:360][213]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.22-16.48.42:360][213]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.22-16.48.42:360][213]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.22-16.48.42:360][213]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.22-16.48.42:360][213]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.22-16.48.42:362][213]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.22-16.48.42:362][213]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.22-16.48.42:365][213]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.22-16.48.42:365][213]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.22-16.48.42:383][213]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.22-16.48.42:383][213]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.22-16.48.42:385][213]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.22-16.48.42:385][213]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.22-16.48.42:400][213]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.22-16.48.42:400][213]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.22-16.48.42:400][213]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C2C616B-4E54-900C-4A23-D2A81B135729%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=df7280584aa138139de8098068e6cef2%7C3a899d71e6ca46e0a3f253201f79eab8%7C5d8769a9-64ba-48f8-9f0e-5bc2dbc134cd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.22-16.48.42:419][213]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.22-16.48.42:421][213]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.22-16.48.42:421][213]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.22-16.48.42:421][213]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.22-16.48.42:421][213]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.22-16.48.42:421][213]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.22-16.48.42:421][213]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.22-16.48.42:421][213]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.22-16.48.42:421][213]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.22-16.48.42:421][213]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.22-16.48.42:421][213]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.22-16.48.42:424][213]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.22-16.48.42:424][213]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.22-16.48.42:424][213]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.22-16.48.42:424][213]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.22-16.48.42:424][213]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.22-16.48.42:424][213]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.22-16.48.42:424][213]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.22-16.48.42:425][213]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.22-16.48.42:444][213]LogExit: Exiting.
+[2019.03.22-16.48.42:452][213]Log file closed, 03/22/19 13:48:42
